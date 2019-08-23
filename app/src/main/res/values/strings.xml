@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Merch Store</string>
+    <string name="merch_name">Merch Name</string>
+    <string name="price">Price</string>
+    <string name="select">Add to Wishlist</string>
+    <string name="buy">Buy</string>
+    <string name="size">Size</string>
+    <string name="cate">Category</string>
+    <string name="desc">Description</string>
+</resources>
